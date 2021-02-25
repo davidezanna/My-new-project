@@ -18,10 +18,8 @@ This project solve a problem that, alas, is becoming every day more frequent: th
 
 ## How is it used?
 
+The idea is very simple: a program or a website where everyone can log in and talk immediately to an immaginary person (our AI) that will converse with them and (hopefully) create a bond. When the user first sign up to the service the AI will know nothing about him but, as the time pass and with the two of them that will continue chatting, the AI would remember everything that has been said and calibrate the responses in order to sound like a human being.
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
-
-Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
 ![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
 
