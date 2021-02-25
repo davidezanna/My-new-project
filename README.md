@@ -21,7 +21,7 @@ This project solve a problem that, alas, is becoming every day more frequent: th
 The idea is very simple: a program or a website where everyone can log in and talk immediately to an immaginary person (our AI) that will converse with them and (hopefully) create a bond. When the user first sign up to the service the AI will know nothing about him but, as the time pass and with the two of them that will continue chatting, the AI would remember everything that has been said and calibrate the responses in order to sound like a human being.
 
 <img src="https://github.com/davidezanna/My-new-project/blob/main/pexels-cottonbro-6153343.jpg" width="100">
-<img src="https://github.com/davidezanna/My-new-project/blob/main/pexels-alex-knight-2599244.jpg" width="100">
+<img src="https://github.com/davidezanna/My-new-project/blob/main/pexels-alex-knight-2599244.jpg" width="100" align=right>
 
 
 ## Data sources and AI methods
