@@ -2,26 +2,22 @@
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# Project Title
+# A friend for everyone
 
 Final project for the Building AI course
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+The core idea of this project is to use AI to help people suffering from loneliness. Our goal is to create a safe place where everyone could go and talk to an artifical intelligence that could become a friend of they. 
 
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
-
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
+This project solve a problem that, alas, is becoming every day more frequent: the loneliness. It is weird that in a world where we're always connected to each other, this issue is constantly growing. It doesn't effect only old people which are deemed to be often isolated from everybody else, but also teenagers, for example bullied students or people who lost their family.
 
 
 ## How is it used?
+
 
 Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
 
@@ -63,17 +59,14 @@ If you need to use links, here's an example:
 
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+This project is obviously not perfect and the limitations are clear. 
+First of all, the AI program cannot substitute a real, physical friend. You could never encounter him, take a coffee together and talk face-to-face.
+Besides that, some people could find this kind of friendship "unethical" due to the fact that you're not talking to a real person but to a computer whose only purpose is to satisfy you.
 
 ## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
-
+The next step would be find a real friend somewhere in the world for the people using the AI based on how they talk to the intelligence, what their feelings and their interests are. With this method the AI would be only an intermediate step between the creation of a new solid friendship.
 
 ## Acknowledgments
 
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
+I did not use any material created from others. All you can see comes from my mind.
