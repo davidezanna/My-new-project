@@ -25,14 +25,9 @@ The idea is very simple: a program or a website where everyone can log in and ta
 
 
 ## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+The main tecnique that will be used in this project is Machine learning: when the AI chat with the user it needs to learn the user's language and adapt to everything comes by the people's mind. It is essential to offer a quality service that every answer and message from the AI is clear and relevant.
+Other fundalmental data would be a deep knowledge of the english language in order to give the best experience possible to the users.
 
 ## Challenges
 
@@ -47,3 +42,4 @@ The next step would be find a real friend somewhere in the world for the people 
 ## Acknowledgments
 
 I did not use any material created from others. All you can see comes from my mind.
+All the photos used are from the webiste "Pexels" who let people use their material for free; more information at "https://www.pexels.com/license".
